@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm SWAPNAJA SINGH</h1>
 <h3 align="center">A passionate full stack  developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif">
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnaja07&label=Profile%20views&color=0e75b6&style=flat" alt="swapnaja07" /> </p>
 
