@@ -1,3 +1,9 @@
+
+
+
+![image](https://github.com/swapnaja07/swapnaja07/assets/54162841/405af4d4-0dac-49df-9f77-81efa94f6c19)
+
+
 <h1 align="center">Hi 👋, I'm SWAPNAJA SINGH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif">
