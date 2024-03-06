@@ -1,9 +1,9 @@
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif">
+<img align="center" alt="Coding" width="600" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*F4t8-xz-b98ZcvEH.gif">
 <h1 align="center">Hi 👋, I'm SWAPNAJA SINGH</h1>
 <h3 align="center">A passionate full stack  developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnaja07&label=Profile%20views&color=0e75b6&style=flat" alt="swapnaja07" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=swapnaja07&label=Profile%20views&color=0e75b6&style=flat" alt="swapnaja07" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
